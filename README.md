@@ -80,7 +80,10 @@ Tecnologías Utilizadas
 Autores
 
 Proyecto desarrollado por:  
+Kevin Ivan Farinango Chico
+Victor Eduardo Salgado Altafuya
 Jose Eduardo Tapia Abad
+Jose Armando Chiquito Alay
 
 Repositorio
 
